@@ -1,1 +1,1 @@
-# projectile-motion-sim
+# Angry Birds projectile-motion-sim
