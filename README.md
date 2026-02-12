@@ -9,7 +9,7 @@ wind interaction, and collision dynamics.
 
 <hr/>
 
-<h2> Features</h2>
+<h2></h2> Features</h2>
 
 <ul>
   <li><strong>Numerical Integrators</strong>
@@ -65,8 +65,9 @@ making the system non-conservative and suitable for integrator comparison.
 
 <h2>🚀 Run Locally</h2>
 
+<pre><code>git clone https://github.com/yourusername/projectile-motion-simulation.git
+</code></pre>
 
+<p>Open <code>index.html</code> in your browser. No dependencies required.</p>
 
-<h2>📄 License</h2>
-
-<p>MIT License (or your preferred license)</p>
+<hr/>
